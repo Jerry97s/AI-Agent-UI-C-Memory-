@@ -1,0 +1,27 @@
+# Build artifacts
+build/
+out/
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Binaries
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+
